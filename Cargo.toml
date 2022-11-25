@@ -1,5 +1,5 @@
 [package]
-name = "pesel-generator"
+name = "pesel"
 version = "0.1.0"
 edition = "2021"
 
